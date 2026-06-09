@@ -71,12 +71,16 @@ def find_dataset_dir(dataset_dir=None, dataset_name=DATASET_NAME):
     candidates.extend(
         [
             Path(dataset_name),
+            Path("KTH_ML4Space2026") / dataset_name,
             Path("KTH_PhD_Course") / dataset_name,
             Path.cwd() / dataset_name,
+            Path.cwd() / "KTH_ML4Space2026" / dataset_name,
             Path.cwd() / "KTH_PhD_Course" / dataset_name,
             Path("/content") / dataset_name,
+            Path("/content") / "KTH_ML4Space2026" / dataset_name,
             Path("/content") / "KTH_PhD_Course" / dataset_name,
             Path("/content/drive/MyDrive") / dataset_name,
+            Path("/content/drive/MyDrive") / "KTH_ML4Space2026" / dataset_name,
             Path("/content/drive/MyDrive") / "KTH_PhD_Course" / dataset_name,
         ]
     )

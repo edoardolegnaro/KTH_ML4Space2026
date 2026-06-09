@@ -19,4 +19,4 @@ arccnet-ar-classification-toy-v20251016/
 └── fits/
 ```
 
-In Colab, paste the public Google Drive dataset URL into `DATASET_GOOGLE_DRIVE_URL` in the EDA configuration cell. The notebook can download either a zipped/tarred dataset archive or a public Drive folder.
+In Colab, the setup cell downloads `utils.py` from this repository if Colab opened only the notebook. The EDA configuration cell can then download the toy dataset from `DATASET_GOOGLE_DRIVE_URL`; leave the provided public Drive URL in place, or replace it with another zipped/tarred dataset archive or public Drive folder.
