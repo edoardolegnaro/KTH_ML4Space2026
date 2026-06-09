@@ -11,7 +11,7 @@ Teaching notebook using DL for solar active-region cutouts.
 
 ## Dataset
 
-The notebook expects the toy dataset folder, which you can download [here]([url](https://drive.google.com/file/d/1lvzSZblxuszFTdGSucQhKatBXnfQMryi/view?usp=sharing)):
+The notebook expects the toy dataset folder, which you can download [here](https://drive.google.com/file/d/1lvzSZblxuszFTdGSucQhKatBXnfQMryi/view?usp=sharing):
 
 ```text
 arccnet-ar-classification-toy-v20251016/
