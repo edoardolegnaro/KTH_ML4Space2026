@@ -1,6 +1,6 @@
 # KTH ML4Space 2026
 
-Teaching notebook for the solar active-region cutouts.
+Teaching notebook using DL for solar active-region cutouts.
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/edoardolegnaro/KTH_ML4Space2026/blob/main/Solar_AR_cutouts.ipynb)
 
