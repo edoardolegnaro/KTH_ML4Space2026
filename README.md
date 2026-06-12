@@ -7,6 +7,7 @@ Teaching notebook using DL for solar active-region cutouts.
 ## Files
 
 - `Solar_AR_cutouts.ipynb`: EDA and baseline ML models.
+- `slides/`: lecture slides.
 - `utils.py`: notebook helper functions for loading, preprocessing, training, and evaluation.
 
 ## Dataset
